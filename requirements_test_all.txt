@@ -147,11 +147,13 @@ mbddns==0.1.2
 # homeassistant.components.switch.mfi
 mficlient==0.3.0
 
-# homeassistant.components.binary_sensor.trend
 # homeassistant.components.image_processing.opencv
+numpy==1.16.0
+
+# homeassistant.components.binary_sensor.trend
 # homeassistant.components.image_processing.tensorflow
 # homeassistant.components.sensor.pollen
-numpy==1.16.0
+numpy==1.16.1
 
 # homeassistant.components.mqtt
 # homeassistant.components.shiftr
